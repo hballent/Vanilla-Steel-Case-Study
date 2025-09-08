@@ -1,0 +1,101 @@
+quality, grade       , finish              , thickness_mm, width_mm, description                      , weight_kg, quantity, article_id, reserved    , source_file
+3rd    , C200S       , pickled and annealed,         2.77,   1100.0, longitudinal or transverse cracks,     13983,     0.0 ,           ,             , supplier_data1
+3rd    , C300S       , unpickled           ,         2.65,   1075.0, longitudinal or transverse cracks,     13047,     0.0 ,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.2 ,   1100.0, edge defects – FS edge cracks    ,     14155,    10.84,           ,             , supplier_data1
+2nd    , C100S       , pickled             ,         2.86,   1100.0, longitudinal or transverse cracks,     11381,    22.87,           ,             , supplier_data1
+1st    , C300S       , unpickled           ,         2.88,   1050.0, target weight not met            ,     10072,    22.87,           ,             , supplier_data1
+2nd    , C200S       , pickled             ,         2.51,   1000.0, longitudinal or transverse cracks,     12863,     0.0 ,           ,             , supplier_data1
+1st    , C100S       , pickled             ,         2.69,   1150.0, target weight not met            ,      8936,    10.84,           ,             , supplier_data1
+2nd    , C300S       , pickled and annealed,         2.98,   1000.0, target weight not met            ,      9810,    22.87,           ,             , supplier_data1
+3rd    , C200S       , pickled             ,         2.03,   1050.0, longitudinal or transverse cracks,      5491,    22.87,           ,             , supplier_data1
+3rd    , C300S       , pickled             ,         2.54,   1050.0, longitudinal or transverse cracks,     11415,     0.0 ,           ,             , supplier_data1
+2nd    , C100S       , pickled and annealed,         2.31,   1050.0, edge defects – FS edge cracks    ,     14758,     0.0 ,           ,             , supplier_data1
+1st    , C100S       , unpickled           ,         2.55,   1050.0, target weight not met            ,     13400,     0.0 ,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.52,   1100.0, longitudinal or transverse cracks,     12787,    25.46,           ,             , supplier_data1
+2nd    , C200S       , unpickled           ,         2.46,   1000.0, target weight not met            ,      8391,    22.87,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.74,   1100.0, longitudinal or transverse cracks,     10409,    10.84,           ,             , supplier_data1
+2nd    , C100S       , pickled             ,         2.27,   1150.0, target weight not met            ,      5951,     0.0 ,           ,             , supplier_data1
+2nd    , C300S       , unpickled           ,         2.08,   1150.0, edge defects – FS edge cracks    ,      8240,    22.87,           ,             , supplier_data1
+1st    , C300S       , pickled and annealed,         2.29,   1050.0, longitudinal or transverse cracks,     14139,    22.87,           ,             , supplier_data1
+3rd    , C100S       , unpickled           ,         2.19,   1050.0, longitudinal or transverse cracks,      7304,    10.84,           ,             , supplier_data1
+2nd    , C100S       , pickled and annealed,         2.14,   1000.0, edge defects – FS edge cracks    ,     13518,    22.87,           ,             , supplier_data1
+1st    , C100S       , pickled             ,         2.84,   1150.0, longitudinal or transverse cracks,     12010,    10.84,           ,             , supplier_data1
+2nd    , C200S       , pickled and annealed,         2.88,   1050.0, target weight not met            ,      6665,     0.0 ,           ,             , supplier_data1
+1st    , C100S       , pickled and annealed,         2.51,   1050.0, longitudinal or transverse cracks,     14839,     0.0 ,           ,             , supplier_data1
+3rd    , C200S       , pickled             ,         2.22,   1050.0, longitudinal or transverse cracks,     10959,    22.87,           ,             , supplier_data1
+2nd    , C200S       , unpickled           ,         2.83,   1100.0, target weight not met            ,     14688,     0.0 ,           ,             , supplier_data1
+3rd    , C300S       , pickled             ,         2.32,   1150.0, longitudinal or transverse cracks,      5979,    25.46,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.48,   1050.0, edge defects – FS edge cracks    ,     10499,    10.84,           ,             , supplier_data1
+2nd    , C300S       , pickled and annealed,         2.21,   1100.0, target weight not met            ,     10723,    25.46,           ,             , supplier_data1
+2nd    , C100S       , unpickled           ,         2.75,   1100.0, longitudinal or transverse cracks,     10262,    10.84,           ,             , supplier_data1
+3rd    , C200S       , pickled             ,         2.75,   1075.0, edge defects – FS edge cracks    ,      8118,     0.0 ,           ,             , supplier_data1
+3rd    , C100S       , unpickled           ,         2.89,   1075.0, target weight not met            ,      5011,    10.84,           ,             , supplier_data1
+1st    , C100S       , pickled and annealed,         2.32,   1150.0, target weight not met            ,      8410,    25.46,           ,             , supplier_data1
+3rd    , C300S       , pickled             ,         2.53,   1100.0, longitudinal or transverse cracks,      5124,    25.46,           ,             , supplier_data1
+2nd    , C100S       , pickled and annealed,         2.18,   1075.0, target weight not met            ,     12071,    25.46,           ,             , supplier_data1
+2nd    , C100S       , pickled             ,         2.75,   1000.0, edge defects – FS edge cracks    ,     13321,    10.84,           ,             , supplier_data1
+2nd    , C300S       , unpickled           ,         2.43,   1000.0, longitudinal or transverse cracks,      7968,     0.0 ,           ,             , supplier_data1
+1st    , C300S       , pickled             ,         2.82,   1050.0, edge defects – FS edge cracks    ,     12702,    22.87,           ,             , supplier_data1
+1st    , C200S       , pickled and annealed,         2.8 ,   1050.0, edge defects – FS edge cracks    ,      5915,     0.0 ,           ,             , supplier_data1
+1st    , C100S       , pickled             ,         2.01,   1050.0, longitudinal or transverse cracks,      8047,    22.87,           ,             , supplier_data1
+2nd    , C300S       , unpickled           ,         2.3 ,   1000.0, longitudinal or transverse cracks,      7772,    25.46,           ,             , supplier_data1
+3rd    , C200S       , unpickled           ,         2.12,   1075.0, longitudinal or transverse cracks,      9995,    10.84,           ,             , supplier_data1
+1st    , C100S       , pickled and annealed,         2.37,   1075.0, edge defects – FS edge cracks    ,      9774,    10.84,           ,             , supplier_data1
+2nd    , C100S       , pickled and annealed,         2.43,   1150.0, target weight not met            ,     11360,    22.87,           ,             , supplier_data1
+3rd    , C100S       , unpickled           ,         2.08,   1100.0, longitudinal or transverse cracks,      8261,    22.87,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.75,   1050.0, edge defects – FS edge cracks    ,      9110,    22.87,           ,             , supplier_data1
+2nd    , C300S       , unpickled           ,         2.72,   1150.0, longitudinal or transverse cracks,     13667,    10.84,           ,             , supplier_data1
+3rd    , C100S       , pickled and annealed,         2.74,   1000.0, longitudinal or transverse cracks,      6947,    22.87,           ,             , supplier_data1
+3rd    , C100S       , pickled             ,         2.48,   1150.0, target weight not met            ,      8786,     0.0 ,           ,             , supplier_data1
+1st    , C300S       , pickled             ,         2.48,   1150.0, target weight not met            ,     14311,    25.46,           ,             , supplier_data1
+1st    , C100S       , pickled             ,         2.79,   1050.0, target weight not met            ,      8048,     0.0 ,           ,             , supplier_data1
+       , HDC         , oiled               ,             ,         ,                                  ,     24469,    52.0 ,   23048203, NOT RESERVED, supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,     16984,    41.0 ,   23040547, NOT RESERVED, supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,      9162,    28.0 ,   23046057, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,     12119,    66.0 ,   23041966, VANILLA     , supplier_data2
+       , HDC         , painted             ,             ,         ,                                  ,     17260,    26.0 ,   23043884, NOT RESERVED, supplier_data2
+       , DX51D +Z140 , not oiled           ,             ,         ,                                  ,     23258,    60.0 ,   23048868, VANILLA     , supplier_data2
+       , HDC         , oiled               ,             ,         ,                                  ,     20994,    93.0 ,   23046459, VANILLA     , supplier_data2
+       , HDC         , oiled               ,             ,         ,                                  ,     22325,    73.0 ,   23043788, NOT RESERVED, supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,     10571,    60.0 ,   23044935, NOT RESERVED, supplier_data2
+       , DX51D +Z140 , not oiled           ,             ,         ,                                  ,     12999,    95.0 ,   23049059, VANILLA     , supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     15862,    59.0 ,   23047860, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, painted             ,             ,         ,                                  ,      9217,    72.0 ,   23047939, NOT RESERVED, supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,     15881,    36.0 ,   23047348, NOT RESERVED, supplier_data2
+       , HDC         , painted             ,             ,         ,                                  ,     23915,    30.0 ,   23045961, VANILLA     , supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,     15741,    71.0 ,   23042649, NOT RESERVED, supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,     15717,    54.0 ,   23048176, VANILLA     , supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,     23967,    10.0 ,   23043667, NOT RESERVED, supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     21346,    58.0 ,   23046190, VANILLA     , supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,     10389,    22.0 ,   23044291, NOT RESERVED, supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,     18501,    94.0 ,   23046841, VANILLA     , supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,     14277,    33.0 ,   23041008, VANILLA     , supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,     24951,    98.0 ,   23041560, NOT RESERVED, supplier_data2
+       , HDC         , painted             ,             ,         ,                                  ,     15121,    12.0 ,   23043638, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,     17933,    72.0 ,   23041902, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, not oiled           ,             ,         ,                                  ,     20304,    82.0 ,   23049627, VANILLA     , supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     20027,    96.0 ,   23044610, VANILLA     , supplier_data2
+       , DX51D +Z140 , not oiled           ,             ,         ,                                  ,     23131,    34.0 ,   23049106, NOT RESERVED, supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,      6113,    29.0 ,   23048028, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,      9037,    78.0 ,   23045099, NOT RESERVED, supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,     24331,    31.0 ,   23046741, VANILLA     , supplier_data2
+       , DX51D +Z140 , painted             ,             ,         ,                                  ,     11898,    21.0 ,   23047239, VANILLA     , supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,     21609,    33.0 ,   23049907, NOT RESERVED, supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,     19165,    67.0 ,   23044447, VANILLA     , supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     18716,    64.0 ,   23047489, NOT RESERVED, supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,      7025,    33.0 ,   23040273, VANILLA     , supplier_data2
+       , DX51D +Z140 , painted             ,             ,         ,                                  ,     14796,    76.0 ,   23040905, VANILLA     , supplier_data2
+       , DX51D +Z140 , not oiled           ,             ,         ,                                  ,     21149,    62.0 ,   23043967, NOT RESERVED, supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,     16393,    68.0 ,   23045724, VANILLA     , supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     21321,    93.0 ,   23049672, VANILLA     , supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,     22395,    62.0 ,   23049617, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, painted             ,             ,         ,                                  ,      9355,    64.0 ,   23043836, VANILLA     , supplier_data2
+       , S235JR      , painted             ,             ,         ,                                  ,     10143,    78.0 ,   23049333, NOT RESERVED, supplier_data2
+       , HDC         , oiled               ,             ,         ,                                  ,     17001,    62.0 ,   23041897, VANILLA     , supplier_data2
+       , S235JR      , not oiled           ,             ,         ,                                  ,      6034,    50.0 ,   23040756, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, oiled               ,             ,         ,                                  ,     15230,    95.0 ,   23041086, NOT RESERVED, supplier_data2
+       , DX51D +Z140 , not oiled           ,             ,         ,                                  ,      9940,    96.0 ,   23047543, NOT RESERVED, supplier_data2
+       , DX51D +AZ150, painted             ,             ,         ,                                  ,     23884,    51.0 ,   23045292, NOT RESERVED, supplier_data2
+       , S235JR      , oiled               ,             ,         ,                                  ,      5302,    12.0 ,   23047408, VANILLA     , supplier_data2
+       , DX51D +Z140 , oiled               ,             ,         ,                                  ,     16927,    69.0 ,   23043348, VANILLA     , supplier_data2
+       , HDC         , not oiled           ,             ,         ,                                  ,     11191,    75.0 ,   23043386, VANILLA     , supplier_data2
